@@ -97,6 +97,6 @@ The project generates:
 
 ## Author
 
-**T. Subhashree**
+**T SUBHA SHREE**
 
 B.Tech (CSE - Data Science)
