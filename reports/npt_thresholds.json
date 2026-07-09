@@ -1,0 +1,26 @@
+{
+  "command_conditioned": {},
+  "baseline": {
+    "BDH-M_POS_3.3V_MON": {
+      "warn": 0.05,
+      "crit": 3.2947
+    },
+    "BDH-M_POS_5V_MON": {
+      "warn": 0.0518,
+      "crit": 4.9807
+    },
+    "BDH-R_POS_3.3V_MON": {
+      "warn": 0.05,
+      "crit": 0.1
+    },
+    "BDH-R_POS_5V_MON": {
+      "warn": 0.05,
+      "crit": 0.1
+    }
+  },
+  "metadata": {
+    "n_baseline_windows": 143,
+    "n_commands": 224,
+    "n_command_types": 0
+  }
+}

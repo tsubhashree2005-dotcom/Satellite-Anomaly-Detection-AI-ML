@@ -1,0 +1,6274 @@
+[
+  {
+    "timestamp": "2026-03-26T08:32:27",
+    "command": "HTR-233_EP-01_XBS_SINK_HTR-ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.02,
+      "cde_invoked": true,
+      "cde_time_ms": 150.7
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-26T08:45:33",
+    "command": "HTR-233_EP-01_XBS_SINK_HTR-OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 153.53
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-26T08:53:01",
+    "command": "HTR-041_EP-01_XPC_SINK_HTR-ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 144.69
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-26T09:17:22",
+    "command": "HTR-041_EP-01_XPC_SINK_HTR-OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 149.68
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T05:59:33",
+    "command": "XSW-2_POS-1_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 160.66
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T06:00:34",
+    "command": "SSPA_M_RLY-1_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 143.58
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T06:00:34",
+    "command": "SSPA_M_RLY-2_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 144.13
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T06:00:34",
+    "command": "SSPA_M_RLY-3_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 151.45
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T06:00:34",
+    "command": "SSPA_M_RLY-4_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 143.99
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T06:02:05",
+    "command": "SSPA_M_DC-DC-1_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 145.62
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T06:02:51",
+    "command": "SSPA_M_DC-DC-2_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 142.43
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T06:04:06",
+    "command": "SSPA_M_DC-DC-3_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 161.91
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T06:05:19",
+    "command": "SSPA_M_DC-DC-4_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 146.56
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T06:06:38",
+    "command": "XBS-1_M_SEL_R_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 146.01
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T06:07:18",
+    "command": "XBS-1_M_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 150.6
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T07:28:33",
+    "command": "XBS-1_R_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 144.24
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T07:28:33",
+    "command": "XBS-1_M_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 149.0
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T07:29:40",
+    "command": "XBS-1_R_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 144.51
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T07:29:40",
+    "command": "XBS-1_M_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 161.73
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T07:32:08",
+    "command": "SSPA_R_DC-DC-2_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 144.01
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T07:32:08",
+    "command": "SSPA_R_DC-DC-3_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 146.4
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T07:32:08",
+    "command": "SSPA_R_DC-DC-4_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 149.27
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T07:32:08",
+    "command": "SSPA_R_DC-DC-1_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 144.78
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T07:32:08",
+    "command": "SSPA_M_DC-DC-3_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 153.73
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T07:32:08",
+    "command": "SSPA_M_DC-DC-4_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.02,
+      "cde_invoked": true,
+      "cde_time_ms": 144.81
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T07:32:08",
+    "command": "SSPA_M_DC-DC-2_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 161.84
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T07:32:08",
+    "command": "SSPA_M_DC-DC-1_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 144.58
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T07:33:18",
+    "command": "SSPA_R_RLY-1_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 147.8
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T07:33:18",
+    "command": "SSPA_R_RLY-2_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 149.03
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T07:33:18",
+    "command": "SSPA_R_RLY-3_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 145.83
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T07:33:20",
+    "command": "SSPA_M_RLY-3_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 217.84
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T07:33:20",
+    "command": "SSPA_M_RLY-4_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 225.11
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T07:33:20",
+    "command": "SSPA_R_RLY-4_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 217.49
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T07:33:20",
+    "command": "SSPA_M_RLY-1_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 208.27
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T07:58:52",
+    "command": "XSW-2_POS-2_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 211.32
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T07:59:23",
+    "command": "SSPA_R_RLY-1_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 208.64
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T07:59:23",
+    "command": "SSPA_R_RLY-2_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.02,
+      "cde_invoked": true,
+      "cde_time_ms": 218.77
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T07:59:23",
+    "command": "SSPA_R_RLY-4_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 217.35
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T07:59:23",
+    "command": "SSPA_R_RLY-3_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 216.17
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T08:01:17",
+    "command": "SSPA_R_DC-DC-1_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 207.14
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T08:02:13",
+    "command": "SSPA_R_DC-DC-2_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 204.99
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T08:02:58",
+    "command": "SSPA_R_DC-DC-3_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 214.32
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T08:04:34",
+    "command": "SSPA_R_DC-DC-4_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 218.89
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T08:05:37",
+    "command": "XBS-1_R_SEL_M_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 204.67
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T08:06:17",
+    "command": "XBS-1_R_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 208.85
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T10:25:26",
+    "command": "XBS-1_M_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 238.43
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T10:25:26",
+    "command": "XBS-1_R_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 257.33
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T10:25:51",
+    "command": "XBS-1_R_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 229.87
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T10:25:53",
+    "command": "XBS-1_M_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 247.3
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T10:26:29",
+    "command": "SSPA_R_DC-DC-1_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.02,
+      "cde_invoked": true,
+      "cde_time_ms": 234.67
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T10:26:29",
+    "command": "SSPA_R_DC-DC-2_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 177.83
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T10:26:29",
+    "command": "SSPA_R_DC-DC-3_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 152.75
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T10:26:30",
+    "command": "SSPA_M_DC-DC-1_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 161.85
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T10:26:30",
+    "command": "SSPA_R_DC-DC-4_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 146.3
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T10:26:30",
+    "command": "SSPA_M_DC-DC-4_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 149.3
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T10:26:30",
+    "command": "SSPA_M_DC-DC-2_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 144.02
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T10:26:30",
+    "command": "SSPA_M_DC-DC-3_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 142.56
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T10:27:06",
+    "command": "SSPA_R_RLY-1_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 144.17
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T10:27:06",
+    "command": "SSPA_R_RLY-2_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 152.09
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T10:27:06",
+    "command": "SSPA_R_RLY-3_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.02,
+      "cde_invoked": true,
+      "cde_time_ms": 161.94
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T10:27:07",
+    "command": "SSPA_M_RLY-3_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 148.01
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T10:27:07",
+    "command": "SSPA_M_RLY-2_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 145.58
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T10:27:07",
+    "command": "SSPA_M_RLY-4_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 145.81
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T10:27:07",
+    "command": "SSPA_R_RLY-4_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 156.96
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-27T10:27:07",
+    "command": "SSPA_M_RLY-1_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 156.17
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T08:01:03",
+    "command": "XSW-2_POS-1_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 159.71
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T08:01:36",
+    "command": "SSPA_M_RLY-1_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 147.77
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T08:01:38",
+    "command": "SSPA_M_RLY-4_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 147.78
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T08:01:38",
+    "command": "SSPA_M_RLY-2_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 147.04
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T08:01:38",
+    "command": "SSPA_M_RLY-3_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 144.19
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T08:02:58",
+    "command": "SSPA_M_DC-DC-1_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 145.07
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T08:03:53",
+    "command": "SSPA_M_DC-DC-2_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 152.76
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T08:04:31",
+    "command": "SSPA_M_DC-DC-3_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 159.67
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T08:05:01",
+    "command": "SSPA_M_DC-DC-4_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 144.34
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T08:05:55",
+    "command": "XBS-1_M_SEL_R_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 146.84
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T08:06:28",
+    "command": "XBS-1_M_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 144.87
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T09:56:33",
+    "command": "XBS-1_M_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 147.31
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T09:56:33",
+    "command": "XBS-1_R_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 146.98
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T09:57:06",
+    "command": "XBS-1_M_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 148.77
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T09:57:06",
+    "command": "XBS-1_R_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 160.31
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T09:57:46",
+    "command": "SSPA_M_DC-DC-2_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 145.41
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T09:57:46",
+    "command": "SSPA_M_DC-DC-4_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 143.73
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T09:57:46",
+    "command": "SSPA_M_DC-DC-3_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 143.39
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T09:57:46",
+    "command": "SSPA_M_DC-DC-1_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 142.14
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T09:57:46",
+    "command": "SSPA_R_DC-DC-3_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 144.92
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T09:57:46",
+    "command": "SSPA_R_DC-DC-2_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 150.13
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T09:57:46",
+    "command": "SSPA_R_DC-DC-1_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 159.51
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T09:57:46",
+    "command": "SSPA_R_DC-DC-4_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 145.07
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T09:58:25",
+    "command": "SSPA_M_RLY-1_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 147.05
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T09:58:25",
+    "command": "SSPA_R_RLY-4_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 145.89
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T09:58:25",
+    "command": "SSPA_R_RLY-1_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 146.03
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T09:58:25",
+    "command": "SSPA_R_RLY-2_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 152.1
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T09:58:25",
+    "command": "SSPA_R_RLY-3_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 143.96
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T09:58:27",
+    "command": "SSPA_M_RLY-4_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 159.9
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T09:58:27",
+    "command": "SSPA_M_RLY-2_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 145.68
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T09:58:27",
+    "command": "SSPA_M_RLY-3_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 145.47
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T09:59:44",
+    "command": "XSW-2_POS-2_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 144.71
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T10:00:08",
+    "command": "SSPA_R_RLY-1_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 143.56
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T10:00:08",
+    "command": "SSPA_R_RLY-2_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 151.65
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T10:00:10",
+    "command": "SSPA_R_RLY-3_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 143.27
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T10:00:10",
+    "command": "SSPA_R_RLY-4_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 160.37
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T10:00:56",
+    "command": "SSPA_R_DC-DC-1_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 145.67
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T10:00:56",
+    "command": "SSPA_R_DC-DC-2_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 149.01
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T10:00:57",
+    "command": "SSPA_R_DC-DC-3_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 145.05
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T10:00:57",
+    "command": "SSPA_R_DC-DC-4_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 146.11
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T10:01:29",
+    "command": "XBS-1_M_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.02,
+      "cde_invoked": true,
+      "cde_time_ms": 151.09
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T10:01:59",
+    "command": "XBS-1_R_SEL_M_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 144.9
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T10:02:37",
+    "command": "XBS-1_R_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 162.31
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T11:11:30",
+    "command": "XBS-1_R_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 146.31
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T11:11:30",
+    "command": "XBS-1_M_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 144.73
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T11:12:26",
+    "command": "XBS-1_M_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 146.13
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T11:12:26",
+    "command": "XBS-1_R_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 146.54
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T11:13:06",
+    "command": "SSPA_M_DC-DC-2_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 149.61
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T11:13:06",
+    "command": "SSPA_M_DC-DC-1_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 144.46
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T11:13:06",
+    "command": "SSPA_R_DC-DC-4_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 162.64
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T11:13:06",
+    "command": "SSPA_R_DC-DC-1_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 144.87
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T11:13:06",
+    "command": "SSPA_R_DC-DC-2_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 144.72
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T11:13:06",
+    "command": "SSPA_R_DC-DC-3_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 193.61
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T11:13:08",
+    "command": "SSPA_M_DC-DC-4_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 227.53
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T11:13:08",
+    "command": "SSPA_M_DC-DC-3_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 211.88
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T11:14:02",
+    "command": "SSPA_R_RLY-3_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 221.39
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T11:14:02",
+    "command": "SSPA_R_RLY-4_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 203.36
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T11:14:02",
+    "command": "SSPA_R_RLY-1_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 210.46
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T11:14:02",
+    "command": "SSPA_R_RLY-2_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 204.06
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T11:14:03",
+    "command": "SSPA_M_RLY-2_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 204.24
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T11:14:03",
+    "command": "SSPA_M_RLY-1_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 230.56
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T11:14:04",
+    "command": "SSPA_M_RLY-3_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 209.1
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-03-30T11:14:04",
+    "command": "SSPA_M_RLY-4_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 214.42
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T03:22:33",
+    "command": "SSPA_M_RLY-3_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 208.94
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T05:26:06",
+    "command": "XSW-2_POS-1_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 205.49
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T05:26:29",
+    "command": "SSPA_M_RLY-3_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 212.96
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T05:26:29",
+    "command": "SSPA_M_RLY-2_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 210.72
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T05:26:29",
+    "command": "SSPA_M_RLY-1_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 236.57
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T05:26:30",
+    "command": "SSPA_M_RLY-4_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 242.31
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T05:27:02",
+    "command": "SSPA_M_DC-DC-1_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 218.72
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T05:27:02",
+    "command": "SSPA_M_DC-DC-2_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 232.36
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T05:27:02",
+    "command": "SSPA_M_DC-DC-3_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 256.25
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T05:27:02",
+    "command": "SSPA_M_DC-DC-4_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 223.09
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T05:28:19",
+    "command": "XBS-1_R_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 153.24
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T05:28:43",
+    "command": "XBS-1_M_SEL_R_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 148.35
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T05:30:09",
+    "command": "XBS-1_M_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 145.72
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T09:32:50",
+    "command": "XBS-1_R_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 160.98
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T09:32:50",
+    "command": "XBS-1_M_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 152.14
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T09:34:08",
+    "command": "XBS-1_M_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 145.26
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T09:34:08",
+    "command": "XBS-1_R_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 145.7
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T09:35:23",
+    "command": "SSPA_R_DC-DC-1_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 145.96
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T09:35:25",
+    "command": "SSPA_M_DC-DC-3_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 143.97
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T09:35:25",
+    "command": "SSPA_M_DC-DC-4_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 143.64
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T09:35:25",
+    "command": "SSPA_M_DC-DC-2_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 160.54
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T09:35:25",
+    "command": "SSPA_R_DC-DC-2_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 150.51
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T09:35:25",
+    "command": "SSPA_R_DC-DC-4_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 148.92
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T09:35:25",
+    "command": "SSPA_M_DC-DC-1_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 143.79
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T09:35:25",
+    "command": "SSPA_R_DC-DC-3_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 146.97
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T09:36:11",
+    "command": "SSPA_M_RLY-1_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 143.58
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T09:36:11",
+    "command": "SSPA_R_RLY-4_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 143.73
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T09:36:11",
+    "command": "SSPA_R_RLY-1_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 168.57
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T09:36:11",
+    "command": "SSPA_R_RLY-2_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 144.25
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T09:36:11",
+    "command": "SSPA_R_RLY-3_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 150.7
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T09:36:13",
+    "command": "SSPA_M_RLY-3_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 146.47
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T09:36:13",
+    "command": "SSPA_M_RLY-4_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 150.21
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-01T09:36:13",
+    "command": "SSPA_M_RLY-2_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 144.28
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T04:33:00",
+    "command": "XSW-2_POS-2_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 145.14
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T04:33:29",
+    "command": "SSPA_R_RLY-1_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 162.21
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T04:33:29",
+    "command": "SSPA_R_RLY-2_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 144.29
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T04:33:29",
+    "command": "SSPA_R_RLY-3_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 147.06
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T04:33:29",
+    "command": "SSPA_R_RLY-4_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 149.8
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T04:34:55",
+    "command": "SSPA_R_DC-DC-3_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 145.63
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T04:34:55",
+    "command": "SSPA_R_DC-DC-4_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 145.21
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T04:34:55",
+    "command": "SSPA_R_DC-DC-2_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.02,
+      "cde_invoked": true,
+      "cde_time_ms": 144.05
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T04:34:55",
+    "command": "SSPA_R_DC-DC-1_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 165.54
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T04:36:21",
+    "command": "XBS-1_M_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 144.1
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T04:36:35",
+    "command": "XBS-1_R_SEL_M_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 143.93
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T04:37:39",
+    "command": "XBS-1_R_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 147.55
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T09:11:43",
+    "command": "XBS-1_M_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 143.98
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T09:11:43",
+    "command": "XBS-1_R_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 143.73
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T09:12:45",
+    "command": "XBS-1_R_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 142.99
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T09:12:46",
+    "command": "XBS-1_M_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 166.46
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T09:13:11",
+    "command": "SSPA_M_DC-DC-3_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 144.67
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T09:13:11",
+    "command": "SSPA_M_DC-DC-1_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 144.49
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T09:13:11",
+    "command": "SSPA_R_DC-DC-3_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 149.6
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T09:13:11",
+    "command": "SSPA_R_DC-DC-4_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 143.45
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T09:13:11",
+    "command": "SSPA_R_DC-DC-1_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 143.53
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T09:13:11",
+    "command": "SSPA_M_DC-DC-2_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 151.0
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T09:13:11",
+    "command": "SSPA_R_DC-DC-2_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 161.83
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T09:13:13",
+    "command": "SSPA_M_DC-DC-4_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 145.35
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T09:13:37",
+    "command": "SSPA_R_RLY-1_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 146.82
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T09:13:37",
+    "command": "SSPA_R_RLY-2_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 145.78
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T09:13:37",
+    "command": "SSPA_R_RLY-3_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 144.81
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T09:13:39",
+    "command": "SSPA_R_RLY-4_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 145.48
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T09:13:39",
+    "command": "SSPA_M_RLY-1_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 149.97
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T09:13:39",
+    "command": "SSPA_M_RLY-3_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 159.88
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T09:13:39",
+    "command": "SSPA_M_RLY-4_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 142.37
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T09:15:21",
+    "command": "XSW-2_POS-1_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 144.8
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T09:15:43",
+    "command": "SSPA_M_RLY-1_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 169.03
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T09:15:45",
+    "command": "SSPA_M_RLY-3_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 148.0
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T09:15:45",
+    "command": "SSPA_M_RLY-4_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 145.3
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T09:15:45",
+    "command": "SSPA_M_RLY-2_SEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 164.76
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T09:16:27",
+    "command": "SSPA_M_DC-DC-1_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 143.31
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T09:16:29",
+    "command": "SSPA_M_DC-DC-2_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 151.67
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T09:16:29",
+    "command": "SSPA_M_DC-DC-3_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 148.27
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T09:16:29",
+    "command": "SSPA_M_DC-DC-4_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 144.31
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T09:17:02",
+    "command": "XBS-1_R_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 150.47
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T09:17:18",
+    "command": "XBS-1_M_SEL_R_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 147.43
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T09:17:56",
+    "command": "XBS-1_M_ON",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 159.68
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T10:06:16",
+    "command": "XBS-1_R_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 156.19
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T10:06:18",
+    "command": "XBS-1_M_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 242.37
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T10:08:32",
+    "command": "XBS-1_M_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 213.31
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T10:08:32",
+    "command": "XBS-1_R_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 213.39
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T10:09:35",
+    "command": "SSPA_M_DC-DC-3_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 230.3
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T10:09:35",
+    "command": "SSPA_M_DC-DC-2_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 217.01
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T10:09:35",
+    "command": "SSPA_M_DC-DC-4_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 209.16
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T10:09:35",
+    "command": "SSPA_M_DC-DC-1_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 204.75
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T10:09:35",
+    "command": "SSPA_R_DC-DC-2_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 211.5
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T10:09:35",
+    "command": "SSPA_R_DC-DC-3_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 228.27
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T10:09:35",
+    "command": "SSPA_R_DC-DC-4_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 215.17
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T10:09:35",
+    "command": "SSPA_R_DC-DC-1_OFF",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 208.23
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T10:10:22",
+    "command": "SSPA_R_RLY-1_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 207.35
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T10:10:22",
+    "command": "SSPA_R_RLY-2_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 210.91
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T10:10:23",
+    "command": "SSPA_R_RLY-3_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 203.16
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T10:10:24",
+    "command": "SSPA_M_RLY-2_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 241.81
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T10:10:24",
+    "command": "SSPA_M_RLY-1_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 232.41
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T10:10:24",
+    "command": "SSPA_M_RLY-4_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 234.26
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T10:10:24",
+    "command": "SSPA_M_RLY-3_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 217.07
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  },
+  {
+    "timestamp": "2026-04-02T10:10:24",
+    "command": "SSPA_R_RLY-4_DESEL",
+    "overall_verdict": "EXPECTED",
+    "overall_confidence": 0.65,
+    "severity": 0,
+    "processing": {
+      "rule_time_ms": 0.01,
+      "cde_invoked": true,
+      "cde_time_ms": 263.76
+    },
+    "parameters": [
+      {
+        "name": "*",
+        "verdict": "NO_RULE",
+        "confidence": 0.65,
+        "measured_change": 0,
+        "expected_change": 0,
+        "recovery_pct": null,
+        "npt_warn": 2.0,
+        "npt_crit": 4.0,
+        "residual": 0.0,
+        "source": "RULE",
+        "severity": 0
+      }
+    ],
+    "recommended_action": "NOMINAL: No action required"
+  }
+]

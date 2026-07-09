@@ -1,0 +1,58 @@
+{
+  "assessment_date": "2026-07-09T10:47:00.832691",
+  "model": {
+    "val_loss": 0.00010977025158354081,
+    "n_params": 41206,
+    "epochs": 1
+  },
+  "data": {
+    "n_timestamps": 17280,
+    "n_parameters": 4,
+    "n_command_types": 46,
+    "n_events": 224
+  },
+  "effect_analysis": {
+    "total_extracted": 0,
+    "ruled": 0,
+    "real_discoveries": 0,
+    "probable": 0,
+    "artifacts_filtered": 0,
+    "insufficient_data": 0
+  },
+  "cde_rule_agreement": {
+    "total_ruled": 0,
+    "agreed": 0,
+    "agreement_rate": 0.0
+  },
+  "orbital_params": [],
+  "subsystems": {
+    "BDH": {
+      "data_quality": "HIGH",
+      "n_ruled": 0,
+      "agreement_rate": 0.0,
+      "n_discoveries": 0,
+      "n_artifacts": 0
+    },
+    "AOC": {
+      "data_quality": "MEDIUM",
+      "n_ruled": 0,
+      "agreement_rate": 0.0,
+      "n_discoveries": 0,
+      "n_artifacts": 0
+    },
+    "POW": {
+      "data_quality": "LOW",
+      "n_ruled": 0,
+      "agreement_rate": 0.0,
+      "n_discoveries": 0,
+      "n_artifacts": 0
+    },
+    "THR": {
+      "data_quality": "LOW",
+      "n_ruled": 0,
+      "agreement_rate": 0.0,
+      "n_discoveries": 0,
+      "n_artifacts": 0
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "discrete": {
+    "n_pairs": 0,
+    "obs_correct": 0,
+    "model_detected": 0
+  },
+  "continuous": {
+    "n_pairs": 0,
+    "obs_dir_correct": 0,
+    "model_dir_correct": 0,
+    "obs_avg_recovery": 0,
+    "model_avg_recovery": 0
+  },
+  "overall": {
+    "total_pairs": 0,
+    "obs_accuracy": 0.0,
+    "model_accuracy": 0.0
+  }
+}
